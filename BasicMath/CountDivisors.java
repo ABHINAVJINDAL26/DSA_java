@@ -1,5 +1,4 @@
 package BasicMath;
-import java.util.*;
 
 
 // Calaculate the number of divisors of a given number n
