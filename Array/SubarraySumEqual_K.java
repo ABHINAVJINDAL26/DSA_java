@@ -28,7 +28,7 @@ import java.util.HashMap;
 // }
 
 
-// Optimal approach
+// Optimal approach using hashmap + prefix sum
 
 public class SubarraySumEqual_K {
     public static int subarraycount(int arr[], int k) {
