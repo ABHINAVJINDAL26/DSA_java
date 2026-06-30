@@ -24,7 +24,7 @@ package BasicMath;
 // Count number of divisors of a given number n
 public class CountDivisors {
     public static void main(String[] args) {
-        int n = 17; 
+        int n = 8; 
         int count = 0;
 
         for(int i=1;i*i<=n;i++) {
@@ -36,5 +36,7 @@ public class CountDivisors {
             }
         }
         System.out.println("Number of divisors of " + n + ": " + count);
+
+
     }
 }
